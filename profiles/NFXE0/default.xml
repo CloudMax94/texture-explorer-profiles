@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This list was created using CloudMax's Texture Explorer.-->
+<!--The root version attribute is used by the parser to determine how it should read the data. Do not change it unless you know what you're doing.-->
+<root version="2">
+	<directory name="makerom" address="0x00000000" size="0x00001050"/>
+	<directory name="boot" address="0x00001050" size="0x000D8A40"/>
+	<directory name="File #0003" address="0x000D9A90" size="0x000005A0"/>
+	<directory name="File #0004" address="0x000DA030" size="0x0003ACF0"/>
+	<directory name="File #0005" address="0x00114D20" size="0x0001E020"/>
+	<directory name="File #0006" address="0x00132D40" size="0x0073C580"/>
+	<directory name="File #0007" address="0x0086F2C0" size="0x00032C10">
+		<texture name="New Texture" address="0x000032A0" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (2)" address="0x000041C0" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (3)" address="0x000050E0" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (4)" address="0x00006000" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (5)" address="0x00006F20" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (6)" address="0x00007E40" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (7)" address="0x00008D60" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (8)" address="0x00009C80" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (9)" address="0x0000ABA0" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (10)" address="0x0000BAC0" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (11)" address="0x0000C9E0" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (12)" address="0x0000D900" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (13)" address="0x0000E820" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (14)" address="0x0000F740" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (15)" address="0x00010000" format="rgb5a1" width="64" height="1024"/>
+		<texture name="STARFOX64#1628E48A#2#1_ci" address="0x00013170" format="ci8" width="32" height="32" palette="0x00013570"/>
+		<texture name="New Texture (15) (2)" address="0x00026230" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (17)" address="0x00027230" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (18)" address="0x0002AC40" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (19)" address="0x0002BC40" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (16)" address="0x00030000" format="rgb5a1" width="64" height="88"/>
+	</directory>
+	<directory name="File #0008" address="0x008A1ED0" size="0x000077E0">
+		<texture name="New Texture" address="0x00000088" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (2)" address="0x00000918" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (3)" address="0x000011A8" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (4)" address="0x00001A38" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (5)" address="0x000022C8" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (6)" address="0x00002B58" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (7)" address="0x000033E8" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (8)" address="0x00003C78" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (9)" address="0x00004508" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (10)" address="0x00004D98" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (11)" address="0x00005628" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (12)" address="0x00005EB8" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (13)" address="0x00006748" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (14)" address="0x00006FD8" format="rgb5a1" width="32" height="32"/>
+	</directory>
+	<directory name="File #0009" address="0x008A96B0" size="0x00011B60">
+		<texture name="New Texture (19)" address="0x00000088" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (18)" address="0x00001118" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (17)" address="0x000021A8" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (16)" address="0x00003238" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (15)" address="0x000042C8" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (14)" address="0x00005358" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (13)" address="0x000063E8" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (12)" address="0x00007478" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (11)" address="0x00008508" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (10)" address="0x00009598" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (9)" address="0x0000A628" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (8)" address="0x0000B6B8" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (7)" address="0x0000C748" format="rgba32" width="32" height="32"/>
+		<texture name="New Texture (6)" address="0x0000D7E8" format="ia16" width="64" height="32"/>
+		<texture name="New Texture (5)" address="0x0000E878" format="ia16" width="32" height="32"/>
+		<texture name="New Texture (4)" address="0x0000F108" format="ia16" width="32" height="32"/>
+		<texture name="New Texture (3)" address="0x0000F998" format="ia16" width="32" height="32"/>
+		<texture name="New Texture (2)" address="0x00010228" format="ia16" width="32" height="32"/>
+		<texture name="New Texture" address="0x00010AB8" format="ia16" width="32" height="32"/>
+		<texture name="STARFOX64#FF94A064#3#2_all" address="0x00011358" format="ia16" width="32" height="32"/>
+	</directory>
+	<directory name="File #0010" address="0x008BB210" size="0x00019DF0"/>
+	<directory name="File #0011" address="0x008D5000" size="0x00008590"/>
+	<directory name="File #0012" address="0x008DD590" size="0x00007350"/>
+	<directory name="File #0013" address="0x008E48E0" size="0x0002F160"/>
+	<directory name="File #0014" address="0x00913A40" size="0x0000A300">
+		<texture name="New Texture (4)" address="0x00004538" format="rgb5a1" width="32" height="32"/>
+	</directory>
+	<directory name="File #0015" address="0x0091DD40" size="0x0000C510"/>
+	<directory name="File #0016" address="0x0092A250" size="0x00011E90">
+		<texture name="STARFOX64#5FA3DD71#0#2_all" address="0x000094B0" format="rgb5a1" width="32" height="32"/>
+		<texture name="STARFOX64#8E8F3959#0#2_all" address="0x00009CB0" format="rgb5a1" width="64" height="32"/>
+		<texture name="STARFOX64#82D83B97#0#2_all" address="0x0000ACB0" format="rgb5a1" width="32" height="32"/>
+		<texture name="STARFOX64#164313B3#0#2_all" address="0x0000B4B0" format="rgb5a1" width="8" height="8"/>
+		<texture name="STARFOX64#D9C1C9C5#0#2_all" address="0x0000B530" format="rgb5a1" width="8" height="8"/>
+		<texture name="STARFOX64#EA9268C4#0#2_all" address="0x0000B5B0" format="rgb5a1" width="32" height="32"/>
+		<texture name="STARFOX64#1929FE6A#0#2_all" address="0x0000BDB0" format="rgb5a1" width="64" height="32"/>
+		<texture name="STARFOX64#141206D9#0#2_all" address="0x0000CDB0" format="rgb5a1" width="16" height="16"/>
+		<texture name="STARFOX64#38CD76A8#0#2_all" address="0x0000CFB0" format="rgb5a1" width="32" height="32"/>
+		<texture name="STARFOX64#71F053AB#0#2_all" address="0x0000D7B0" format="rgb5a1" width="32" height="32"/>
+		<texture name="STARFOX64#60C5492E#0#2_all" address="0x0000E100" format="rgb5a1" width="44" height="44"/>
+		<texture name="STARFOX64#43F35A55#0#2_all" address="0x0000F020" format="rgb5a1" width="44" height="44"/>
+		<texture name="STARFOX64#809896E3#0#2_all" address="0x0000FF40" format="rgb5a1" width="44" height="44"/>
+		<texture name="STARFOX64#912CF08F#0#2_all" address="0x00010E60" format="rgb5a1" width="44" height="44"/>
+	</directory>
+	<directory name="File #0017" address="0x0093C0E0" size="0x000147A0"/>
+	<directory name="File #0018" address="0x00950880" size="0x0000CA70"/>
+	<directory name="File #0019" address="0x0095D2F0" size="0x0003F780"/>
+	<directory name="File #0020" address="0x0099CA70" size="0x00031B70">
+		<texture name="New Texture" address="0x00012238" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (2)" address="0x00013238" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (3)" address="0x00014238" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (4)" address="0x00015238" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (5)" address="0x000162C8" format="rgb5a1" width="64" height="32"/>
+		<texture name="New Texture (6)" address="0x000172C8" format="rgb5a1" width="32" height="32"/>
+	</directory>
+	<directory name="File #0021" address="0x009CE5E0" size="0x0000A3C0"/>
+	<directory name="File #0022" address="0x009D89A0" size="0x0000E250"/>
+	<directory name="File #0023" address="0x009E6BF0" size="0x000092A0"/>
+	<directory name="File #0024" address="0x009EFE90" size="0x00010120"/>
+	<directory name="File #0025" address="0x009FFFB0" size="0x000099A0"/>
+	<directory name="File #0026" address="0x00A09950" size="0x0000EDB0"/>
+	<directory name="File #0027" address="0x00A18700" size="0x00032AC0"/>
+	<directory name="File #0028" address="0x00A4B1C0" size="0x000093B0"/>
+	<directory name="File #0029" address="0x00A54570" size="0x005ABA90"/>
+	<directory name="File #0030" address="0x00A86A80" size="0x00028B90"/>
+	<directory name="File #0031" address="0x00AAF610" size="0x0001B960"/>
+	<directory name="File #0032" address="0x00ACAF70" size="0x00016740"/>
+	<directory name="File #0033" address="0x00AE16B0" size="0x00024960"/>
+	<directory name="File #0034" address="0x00B06010" size="0x00012050"/>
+	<directory name="File #0035" address="0x00B18060" size="0x00010000"/>
+	<directory name="File #0036" address="0x00B28060" size="0x00034890"/>
+	<directory name="File #0037" address="0x00B5C8F0" size="0x00023280"/>
+	<directory name="File #0038" address="0x00B7FB70" size="0x0002CC70"/>
+	<directory name="File #0039" address="0x00BAC7E0" size="0x00011200"/>
+	<directory name="File #0040" address="0x00BBD9E0" size="0x00038370"/>
+	<directory name="File #0041" address="0x00BF5D50" size="0x00001DD0"/>
+	<directory name="File #0042" address="0x00BF7B20" size="0x0004CA30">
+		<texture name="StarFox Logo" address="0x00000000" format="rgb5a1" width="236" height="60"/>
+		<texture name="New Texture" address="0x00006EA0" format="rgb5a1" width="128" height="16"/>
+		<texture name="New Texture (2)" address="0x00007EA0" format="rgb5a1" width="128" height="72"/>
+		<texture name="New Texture (3)" address="0x0000C6A0" format="rgb5a1" width="44" height="44"/>
+		<texture name="New Texture (4)" address="0x0000D5C0" format="rgb5a1" width="32" height="32"/>
+		<texture name="STARFOX" address="0x00014140" format="ci4" width="256" height="13" palette="0x000147C0"/>
+		<texture name="IN" address="0x000147E0" format="ci4" width="32" height="13" palette="0x000148B0"/>
+		<texture name="STARFOX64#55ABAEAA#3#2_all" address="0x00036328" format="ia16" width="32" height="32"/>
+		<texture name="New Texture (5)" address="0x00036BC8" format="ia16" width="32" height="32"/>
+		<texture name="STARFOX64#2D6AF1A3#0#2_all" address="0x000380D0" format="rgb5a1" width="64" height="32"/>
+		<texture name="STARFOX64#1867DF5A#0#2_all" address="0x0003A0D0" format="rgb5a1" width="64" height="32"/>
+		<texture name="STARFOX64#FF5D69C1#0#2_all" address="0x0003C0D0" format="rgb5a1" width="64" height="32"/>
+		<texture name="STARFOX64#86348E73#0#2_all" address="0x0003E0D0" format="rgb5a1" width="64" height="32"/>
+		<texture name="New Texture (6)" address="0x0003F0D0" format="rgb5a1" width="64" height="32"/>
+		<texture name="New Texture (7)" address="0x000410F8" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (8)" address="0x00041CF0" format="rgb5a1" width="32" height="32"/>
+	</directory>
+	<directory name="File #0043" address="0x00C44550" size="0x00060EA0"/>
+	<directory name="File #0044" address="0x00CA53F0" size="0x00016090"/>
+	<directory name="File #0045" address="0x00CBB480" size="0x000125A0"/>
+	<directory name="File #0046" address="0x00CCDA20" size="0x0000B890"/>
+	<directory name="File #0047" address="0x00CD92B0" size="0x0000C1D0"/>
+	<directory name="File #0048" address="0x00CE5480" size="0x0003B290"/>
+	<directory name="File #0049" address="0x00D20710" size="0x00002500"/>
+	<directory name="File #0050" address="0x00D22C10" size="0x0001BE00"/>
+	<directory name="File #0051" address="0x00D3EA10" size="0x00025080"/>
+	<directory name="File #0052" address="0x00D63A90" size="0x00029A90"/>
+	<directory name="File #0053" address="0x00D8D520" size="0x0004A100"/>
+	<directory name="File #0054" address="0x00DD7620" size="0x00009D40"/>
+	<directory name="File #0055" address="0x00DE1360" size="0x0000E510"/>
+	<directory name="File #0056" address="0x00DEF870" size="0x00014160"/>
+	<directory name="File #0057" address="0x00E039D0" size="0x0000E850"/>
+	<directory name="File #0058" address="0x00E12220" size="0x0003AD20"/>
+	<directory name="File #0059" address="0x00E4CF40" size="0x00018EA0"/>
+	<directory name="File #0060" address="0x00E65DE0" size="0x000349C0"/>
+	<directory name="File #0061" address="0x00E9A7A0" size="0x00020A10"/>
+	<directory name="File #0062" address="0x00EBB1B0" size="0x00030680"/>
+	<directory name="File #0063" address="0x00EEB830" size="0x0000F7E0"/>
+	<directory name="File #0064" address="0x00EFB010" size="0x000000A0"/>
+</root>
