@@ -1926,7 +1926,10 @@
 	<directory name="File #1905" address="0x00D5A000" size="0x000001D0"/>
 	<directory name="File #1906" address="0x00D5B000" size="0x000013F0"/>
 	<directory name="File #1907" address="0x00D5D000" size="0x000002E0"/>
-	<directory name="File #1908" address="0x00D5E000" size="0x00095480"/>
+	<directory name="File #1908" address="0x00D5E000" size="0x00095480">
+		<texture name="New Texture" address="0x0007FFB0" format="i8" width="16" height="16"/>
+		<texture name="New Texture (2)" address="0x000800B0" format="ci4" width="16" height="16" palette="0x00000000"/>
+	</directory>
 	<directory name="File #1909" address="0x00DF4000" size="0x000002F0"/>
 	<directory name="File #1910" address="0x00DF5000" size="0x0000A0D0"/>
 	<directory name="File #1911" address="0x00E00000" size="0x00000180"/>

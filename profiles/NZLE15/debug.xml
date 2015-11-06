@@ -1496,67 +1496,119 @@
 		<texture name="Presented By (end screen)" address="0x00003940" format="ia8" width="96" height="16"/>
 	</directory>
 	<directory name="gameplay_keep" address="0x00F5E000" size="0x000567B0">
-		<texture name="New Texture" address="0x00000000" format="rgb5a1" width="16" height="16"/>
-		<texture name="New Texture (2)" address="0x00000200" format="rgb5a1" width="16" height="16"/>
-		<texture name="New Texture (3)" address="0x00000400" format="rgb5a1" width="32" height="64"/>
-		<texture name="New Texture (4)" address="0x00001400" format="rgb5a1" width="32" height="16"/>
-		<texture name="New Texture (5)" address="0x00001800" format="rgb5a1" width="16" height="16"/>
-		<texture name="New Texture (6)" address="0x00001A40" format="rgb5a1" width="16" height="16"/>
-		<texture name="New Texture (7)" address="0x00001C40" format="i8" width="16" height="16"/>
-		<texture name="New Texture (8)" address="0x00001D40" format="i8" width="16" height="32"/>
-		<texture name="New Texture (9)" address="0x00001F40" format="i8" width="16" height="16"/>
-		<texture name="New Texture (10)" address="0x00004058" format="ia4" width="32" height="32"/>
-		<texture name="New Texture (11)" address="0x00004380" format="rgb5a1" width="16" height="128"/>
-		<texture name="New Texture (12)" address="0x00005380" format="rgb5a1" width="32" height="16"/>
-		<texture name="New Texture (13)" address="0x00006020" format="i8" width="64" height="32"/>
-		<texture name="New Texture (14)" address="0x00006820" format="i8" width="64" height="64"/>
-		<texture name="New Texture (15)" address="0x00007F80" format="ia16" width="32" height="32"/>
-		<texture name="New Texture (16)" address="0x00008780" format="ia16" width="32" height="32"/>
-		<texture name="New Texture (17)" address="0x00008F80" format="ia16" width="32" height="32"/>
-		<texture name="New Texture (18)" address="0x00009780" format="ia16" width="32" height="32"/>
-		<texture name="New Texture (19)" address="0x00009F80" format="ia16" width="32" height="32"/>
-		<texture name="New Texture (20)" address="0x0000A780" format="ia16" width="32" height="32"/>
-		<texture name="New Texture (21)" address="0x0000AF80" format="ia16" width="32" height="32"/>
-		<texture name="New Texture (22)" address="0x0000B780" format="ia16" width="32" height="32"/>
-		<texture name="THE LEGEND OF ZELDA#CF8DEFB9#4#1_all" address="0x0000CC80" format="i8" width="8" height="8"/>
-		<texture name="New Texture (23)" address="0x0000CE40" format="ia8" width="16" height="16"/>
-		<texture name="New Texture (24)" address="0x0000CF40" format="ia8" width="16" height="24"/>
-		<texture name="Navi Beta Wings" address="0x00015968" format="rgb5a1" width="32" height="64"/>
-		<texture name="New Texture (25)" address="0x00016BD0" format="rgb5a1" width="32" height="32"/>
-		<texture name="THE LEGEND OF ZELDA#934584DC#4#1_all" address="0x000190B0" format="i8" width="64" height="64"/>
-		<texture name="THE LEGEND OF ZELDA#5CEAC419#4#0_all" address="0x00020B70" format="i4" width="32" height="24"/>
-		<texture name="THE LEGEND OF ZELDA#E3092A16#4#0_all" address="0x00020CF0" format="i4" width="32" height="24"/>
-		<texture name="THE LEGEND OF ZELDA#DB3C0345#4#0_all" address="0x00020E70" format="i4" width="32" height="24"/>
-		<texture name="THE LEGEND OF ZELDA#F4A0B048#4#0_all" address="0x00020FF0" format="i4" width="32" height="24"/>
-		<texture name="THE LEGEND OF ZELDA#4A77D168#4#0_all" address="0x00021170" format="i4" width="32" height="24"/>
-		<texture name="THE LEGEND OF ZELDA#241C3976#4#0_all" address="0x000212F0" format="i4" width="32" height="24"/>
-		<texture name="THE LEGEND OF ZELDA#48687E94#4#0_all" address="0x00021470" format="i4" width="32" height="24"/>
-		<texture name="THE LEGEND OF ZELDA#94BA97E0#4#0_all" address="0x000215F0" format="i4" width="32" height="24"/>
-		<texture name="THE LEGEND OF ZELDA#AB38B2E4#4#1_all" address="0x000244B0" format="i8" width="64" height="64"/>
-		<texture name="THE LEGEND OF ZELDA#A0E235B3#4#1_all" address="0x00025AF0" format="i8" width="32" height="40"/>
-		<texture name="THE LEGEND OF ZELDA#8BF29749#4#1_all" address="0x00025FF0" format="i8" width="32" height="40"/>
-		<texture name="THE LEGEND OF ZELDA#C47FDDEE#4#1_all" address="0x000264F0" format="i8" width="32" height="40"/>
-		<texture name="THE LEGEND OF ZELDA#3EF757BC#4#1_all" address="0x000269F0" format="i8" width="32" height="40"/>
-		<texture name="THE LEGEND OF ZELDA#1DA0FEA7#4#1_all" address="0x00026EF0" format="i8" width="32" height="40"/>
-		<texture name="THE LEGEND OF ZELDA#00E173B7#4#1_all" address="0x000273F0" format="i8" width="32" height="40"/>
-		<texture name="THE LEGEND OF ZELDA#406359B2#4#1_all" address="0x000278F0" format="i8" width="32" height="40"/>
-		<texture name="THE LEGEND OF ZELDA#9CFEAF4B#3#2_all" address="0x0002CFD8" format="i4" width="32" height="32"/>
-		<texture name="THE LEGEND OF ZELDA#A2EA5899#4#1_all" address="0x00032890" format="i8" width="32" height="32"/>
-		<texture name="THE LEGEND OF ZELDA#ACBC7AAC#4#1_all" address="0x00032C90" format="i8" width="32" height="32"/>
-		<texture name="THE LEGEND OF ZELDA#1EBE1749#4#1_all" address="0x00033090" format="i8" width="32" height="32"/>
-		<texture name="THE LEGEND OF ZELDA#EB038C1A#4#0_all" address="0x00036730" format="i4" width="64" height="64"/>
-		<texture name="Moon" address="0x00037F00" format="ia8" width="64" height="64"/>
-		<texture name="New Texture (26)" address="0x00038FB0" format="ia8" width="32" height="32"/>
-		<texture name="THE LEGEND OF ZELDA#0EF2328C#4#1_all" address="0x0003AC30" format="i8" width="16" height="16"/>
-		<texture name="Stuff" address="0x0003C870" format="rgb5a1" width="32" height="160"/>
-		<texture name="More Stuff" address="0x0003F140" format="rgb5a1" width="32" height="192"/>
-		<texture name="THE LEGEND OF ZELDA#578F025A#3#1_all" address="0x0004A090" format="ia8" width="32" height="128"/>
-		<texture name="THE LEGEND OF ZELDA#C1AB1C68#4#0_all" address="0x0004C160" format="i4" width="64" height="64"/>
-		<texture name="THE LEGEND OF ZELDA#A5D550C9#4#0_all" address="0x0004D660" format="i4" width="32" height="128"/>
-		<texture name="THE LEGEND OF ZELDA#92133807#4#1_all" address="0x0004DE60" format="i8" width="32" height="64"/>
-		<texture name="THE LEGEND OF ZELDA#B64A0DFA#4#1_all" address="0x00051DB0" format="i8" width="32" height="32"/>
-		<texture name="THE LEGEND OF ZELDA#AE749099#3#1_all" address="0x00055DB0" format="ia8" width="16" height="16"/>
-		<texture name="THE LEGEND OF ZELDA#A1877F2A#3#1_all" address="0x00055EB0" format="ia8" width="16" height="16"/>
+		<texture name="New Texture" address="0x00000200" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (2)" address="0x00000400" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (3)" address="0x00001400" format="rgb5a1" width="32" height="16"/>
+		<texture name="New Texture (4)" address="0x00001800" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (5)" address="0x00001A40" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (6)" address="0x00001C40" format="i8" width="16" height="16"/>
+		<texture name="New Texture (7)" address="0x00001D40" format="i8" width="16" height="32"/>
+		<texture name="New Texture (8)" address="0x00001F40" format="i8" width="16" height="16"/>
+		<texture name="New Texture (9)" address="0x00004058" format="ia4" width="32" height="32"/>
+		<texture name="New Texture (10)" address="0x00004380" format="rgb5a1" width="16" height="128"/>
+		<texture name="New Texture (11)" address="0x00005380" format="rgb5a1" width="32" height="16"/>
+		<texture name="New Texture (12)" address="0x00006820" format="ia8" width="64" height="64"/>
+		<texture name="New Texture (13)" address="0x000078F0" format="rgb5a1" width="8" height="8"/>
+		<texture name="New Texture (14)" address="0x00007B10" format="rgb5a1" width="8" height="8"/>
+		<texture name="New Texture (15)" address="0x0000C160" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (16)" address="0x0000CC80" format="i8" width="8" height="8"/>
+		<texture name="New Texture (17)" address="0x0000D4E0" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (18)" address="0x0000DCE0" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (19)" address="0x0000EF38" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (20)" address="0x00010228" format="i8" width="64" height="64"/>
+		<texture name="New Texture (21)" address="0x00011230" format="i8" width="64" height="32"/>
+		<texture name="New Texture (22)" address="0x00011A30" format="i8" width="64" height="32"/>
+		<texture name="New Texture (23)" address="0x00012D30" format="i8" width="32" height="32"/>
+		<texture name="New Texture (24)" address="0x00013130" format="i8" width="32" height="32"/>
+		<texture name="New Texture (25)" address="0x00013700" format="i8" width="32" height="64"/>
+		<texture name="New Texture (26)" address="0x00013F00" format="i8" width="32" height="64"/>
+		<texture name="New Texture (27)" address="0x00014BC0" format="i8" width="32" height="64"/>
+		<texture name="New Texture (28)" address="0x00015968" format="rgb5a1" width="32" height="64"/>
+		<texture name="New Texture (29)" address="0x00016AD0" format="i8" width="16" height="16"/>
+		<texture name="New Texture (30)" address="0x00016BD0" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (31)" address="0x000173D0" format="i8" width="32" height="64"/>
+		<texture name="New Texture (32)" address="0x00017BD0" format="i8" width="32" height="64"/>
+		<texture name="New Texture (33)" address="0x00018B80" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (34)" address="0x00018D80" format="rgb5a1" width="32" height="8"/>
+		<texture name="New Texture (35)" address="0x000190B0" format="i8" width="64" height="64"/>
+		<texture name="New Texture (36)" address="0x0001A220" format="i8" width="32" height="32"/>
+		<texture name="New Texture (37)" address="0x0001A620" format="i8" width="32" height="32"/>
+		<texture name="New Texture (38)" address="0x0001AA20" format="i8" width="32" height="32"/>
+		<texture name="New Texture (39)" address="0x0001AE20" format="i8" width="32" height="32"/>
+		<texture name="New Texture (40)" address="0x0001B220" format="i8" width="32" height="32"/>
+		<texture name="New Texture (41)" address="0x0001B620" format="i8" width="32" height="32"/>
+		<texture name="New Texture (42)" address="0x0001BA20" format="i8" width="32" height="32"/>
+		<texture name="New Texture (43)" address="0x0001BE20" format="i8" width="32" height="32"/>
+		<texture name="New Texture (44)" address="0x0001C2C0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (45)" address="0x0001C6C0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (46)" address="0x0001CAC0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (47)" address="0x0001CEC0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (48)" address="0x0001D2C0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (49)" address="0x0001D6C0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (50)" address="0x0001DAC0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (51)" address="0x0001DEC0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (52)" address="0x0001E370" format="i8" width="64" height="64"/>
+		<texture name="New Texture (53)" address="0x0001F370" format="i8" width="16" height="24"/>
+		<texture name="New Texture (54)" address="0x0001F4F0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (55)" address="0x0001F670" format="i8" width="16" height="24"/>
+		<texture name="New Texture (56)" address="0x0001F7F0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (57)" address="0x0001F970" format="i8" width="16" height="24"/>
+		<texture name="New Texture (58)" address="0x0001FAF0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (59)" address="0x0001FC70" format="i8" width="16" height="24"/>
+		<texture name="New Texture (60)" address="0x0001FDF0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (61)" address="0x0001FF70" format="i8" width="16" height="24"/>
+		<texture name="New Texture (62)" address="0x000200F0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (63)" address="0x00020270" format="i8" width="16" height="24"/>
+		<texture name="New Texture (64)" address="0x000203F0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (65)" address="0x00020570" format="i8" width="16" height="24"/>
+		<texture name="New Texture (66)" address="0x000206F0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (67)" address="0x00020870" format="i8" width="16" height="24"/>
+		<texture name="New Texture (68)" address="0x000209F0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (69)" address="0x00020B70" format="i8" width="16" height="24"/>
+		<texture name="New Texture (70)" address="0x00020CF0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (71)" address="0x00020E70" format="i8" width="16" height="24"/>
+		<texture name="New Texture (72)" address="0x00020FF0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (73)" address="0x00021170" format="i8" width="16" height="24"/>
+		<texture name="New Texture (74)" address="0x000212F0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (75)" address="0x00021470" format="i8" width="16" height="24"/>
+		<texture name="New Texture (76)" address="0x000215F0" format="i8" width="16" height="24"/>
+		<texture name="New Texture (77)" address="0x00021810" format="i8" width="32" height="64"/>
+		<texture name="New Texture (78)" address="0x00022010" format="i8" width="32" height="64"/>
+		<texture name="New Texture (79)" address="0x00022810" format="i8" width="64" height="64"/>
+		<texture name="New Texture (80)" address="0x00023810" format="i8" width="16" height="24"/>
+		<texture name="New Texture (81)" address="0x00023990" format="i8" width="16" height="24"/>
+		<texture name="New Texture (82)" address="0x00023B10" format="i8" width="16" height="24"/>
+		<texture name="New Texture (83)" address="0x00023C90" format="i8" width="16" height="24"/>
+		<texture name="New Texture (84)" address="0x00023E10" format="i8" width="16" height="24"/>
+		<texture name="New Texture (85)" address="0x00023F90" format="i8" width="16" height="24"/>
+		<texture name="New Texture (86)" address="0x00024110" format="i8" width="16" height="24"/>
+		<texture name="New Texture (87)" address="0x00024290" format="i8" width="16" height="24"/>
+		<texture name="New Texture (88)" address="0x000244B0" format="i8" width="64" height="64"/>
+		<texture name="New Texture (89)" address="0x000255F0" format="i8" width="32" height="40"/>
+		<texture name="New Texture (90)" address="0x00025AF0" format="i8" width="32" height="40"/>
+		<texture name="New Texture (91)" address="0x00025FF0" format="i8" width="32" height="40"/>
+		<texture name="New Texture (92)" address="0x000264F0" format="i8" width="32" height="40"/>
+		<texture name="New Texture (93)" address="0x000269F0" format="i8" width="32" height="40"/>
+		<texture name="New Texture (94)" address="0x00026EF0" format="i8" width="32" height="40"/>
+		<texture name="New Texture (95)" address="0x000273F0" format="i8" width="32" height="40"/>
+		<texture name="New Texture (96)" address="0x000278F0" format="i8" width="32" height="40"/>
+		<texture name="New Texture (97)" address="0x00027E90" format="i8" width="32" height="32"/>
+		<texture name="New Texture (98)" address="0x00028290" format="i8" width="32" height="32"/>
+		<texture name="New Texture (99)" address="0x00028690" format="i8" width="32" height="32"/>
+		<texture name="New Texture (100)" address="0x00028A90" format="i8" width="32" height="32"/>
+		<texture name="New Texture (101)" address="0x00028E90" format="i8" width="32" height="32"/>
+		<texture name="New Texture (102)" address="0x00029290" format="i8" width="32" height="32"/>
+		<texture name="New Texture (103)" address="0x00029690" format="i8" width="32" height="32"/>
+		<texture name="New Texture (104)" address="0x00029A90" format="i8" width="32" height="32"/>
+		<texture name="New Texture (105)" address="0x00029F30" format="i8" width="16" height="96"/>
+		<texture name="New Texture (106)" address="0x0002A530" format="i8" width="16" height="96"/>
+		<texture name="New Texture (107)" address="0x0002AB30" format="i8" width="16" height="96"/>
+		<texture name="New Texture (108)" address="0x0002B130" format="i8" width="16" height="96"/>
+		<texture name="New Texture (109)" address="0x0002B730" format="i8" width="16" height="96"/>
+		<texture name="New Texture (110)" address="0x0002BD30" format="i8" width="16" height="96"/>
+		<texture name="New Texture (111)" address="0x0002C330" format="i8" width="16" height="96"/>
+		<texture name="New Texture (112)" address="0x0002C930" format="i8" width="16" height="96"/>
+		<texture name="New Texture (113)" address="0x00000000" format="rgb5a1" width="16" height="16"/>
 	</directory>
 	<directory name="gameplay_field_keep" address="0x00FB5000" size="0x0000D330">
 		<texture name="New Texture" address="0x00000750" format="rgb5a1" width="16" height="32"/>
@@ -1638,6 +1690,9 @@
 		<texture name="New Texture (26)" address="0x0000B280" format="ia16" width="32" height="64"/>
 		<texture name="New Texture (27)" address="0x0000C280" format="ia16" width="32" height="32"/>
 		<texture name="New Texture (28)" address="0x0000CA80" format="ia16" width="8" height="8"/>
+		<texture name="New Texture (29)" address="0x00006F00" format="ci8" width="16" height="8" palette="0x00000000"/>
+		<texture name="New Texture (30)" address="0x00006F80" format="ci8" width="16" height="32" palette="0x00000000"/>
+		<texture name="New Texture (31)" address="0x0000CB00" format="i8" width="8" height="8"/>
 	</directory>
 	<directory name="object_link_child" address="0x01014000" size="0x0002CF80">
 		<texture name="New Texture (4)" address="0x00000000" format="ci8" width="64" height="32" palette="0x00005500"/>
@@ -1689,6 +1744,13 @@
 		<texture name="New Texture (40)" address="0x0002BA28" format="rgb5a1" width="16" height="16"/>
 		<texture name="New Texture (41)" address="0x0002BC28" format="rgb5a1" width="16" height="32"/>
 		<texture name="New Texture (42)" address="0x0002C028" format="rgb5a1" width="16" height="32"/>
+	</directory>
+	<directory name="object_box" address="0x01041000" size="0x00006000">
+		<texture name="Normal-Dungeon Chest (front)" address="0x00001798" format="rgb5a1" width="32" height="64"/>
+		<texture name="Normal-Dungeon Chest (side)" address="0x00002798" format="rgb5a1" width="32" height="32"/>
+		<texture name="Large Chest (side)" address="0x00002F98" format="rgb5a1" width="32" height="32"/>
+		<texture name="Large Chest (front)" address="0x00003798" format="rgb5a1" width="32" height="64"/>
+		<texture name="Chest Open Effect" address="0x00004F80" format="i8" width="64" height="32"/>
 	</directory>
 	<directory name="object_human" address="0x01047000" size="0x00013180">
 		<texture name="New Texture" address="0x00000000" format="ci8" width="32" height="32" palette="0x00007A00"/>
@@ -1746,6 +1808,23 @@
 		<texture name="Gohma Title (EN)" address="0x00019BA8" format="ia8" width="128" height="40"/>
 		<texture name="Gohma Title (DE)" address="0x0001AFA8" format="ia8" width="128" height="40"/>
 		<texture name="Gohma Title (FR)" address="0x0001C3A8" format="ia8" width="128" height="40"/>
+	</directory>
+	<directory name="object_zl1" address="0x01120000" size="0x000143C0">
+		<texture name="New Texture" address="0x00000450" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (2)" address="0x00000650" format="ci8" width="8" height="8" palette="0x00000450"/>
+		<texture name="New Texture (3)" address="0x00000690" format="ci8" width="16" height="16" palette="0x00000450"/>
+		<texture name="New Texture (4)" address="0x00000790" format="ci8" width="32" height="64" palette="0x00000450"/>
+		<texture name="New Texture (5)" address="0x00000F90" format="ci8" width="32" height="8" palette="0x00000450"/>
+		<texture name="New Texture (6)" address="0x00001090" format="ci8" width="8" height="8" palette="0x00000450"/>
+		<texture name="New Texture (7)" address="0x000010D0" format="ci8" width="32" height="32" palette="0x00000450"/>
+		<texture name="New Texture (8)" address="0x000014D0" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (9)" address="0x000016D0" format="ci8" width="16" height="16" palette="0x00000450"/>
+		<texture name="New Texture (10)" address="0x000017D0" format="rgb5a1" width="8" height="8"/>
+		<texture name="New Texture (11)" address="0x00001850" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (12)" address="0x00001A50" format="ci8" width="8" height="8" palette="0x00000450"/>
+		<texture name="New Texture (13)" address="0x00001A90" format="ci8" width="8" height="8" palette="0x00000450"/>
+		<texture name="New Texture (14)" address="0x00001AD0" format="ci8" width="16" height="16" palette="0x00000450"/>
+		<texture name="New Texture (15)" address="0x00001BD0" format="rgb5a1" width="32" height="32"/>
 	</directory>
 	<directory name="object_st" address="0x01151000" size="0x00005BB0"/>
 	<directory name="object_jj" address="0x01215000" size="0x0000BAC0">
@@ -1914,6 +1993,62 @@
 		<texture name="Ganon Title (DE)" address="0x00022E90" format="ia8" width="128" height="40"/>
 		<texture name="Ganon Title (FR)" address="0x00024290" format="ia8" width="128" height="40"/>
 	</directory>
+	<directory name="object_ec" address="0x0189E000" size="0x0000C930">
+		<texture name="New Texture" address="0x00000000" format="i8" width="32" height="1600"/>
+	</directory>
+	<directory name="object_fish" address="0x018AB000" size="0x000155F0">
+		<texture name="New Texture" address="0x000014D0" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (2)" address="0x000016D0" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (3)" address="0x000018D0" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (4)" address="0x00001AD0" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (5)" address="0x000022D0" format="rgb5a1" width="16" height="16"/>
+		<texture name="Unreferenced" address="0x000024D0" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (6)" address="0x000026D0" format="rgb5a1" width="16" height="16"/>
+		<texture name="Unreferenced (2)" address="0x000029D0" format="rgb5a1" width="8" height="16"/>
+		<texture name="New Texture (7)" address="0x00002AD0" format="rgb5a1" width="8" height="8"/>
+		<texture name="New Texture (8)" address="0x00002CE0" format="i8" width="16" height="64"/>
+		<texture name="New Texture (9)" address="0x000030E0" format="i4" width="16" height="16"/>
+		<texture name="New Texture (10)" address="0x00003320" format="ia8" width="16" height="16"/>
+		<texture name="New Texture (11)" address="0x000034E0" format="i8" width="16" height="16"/>
+		<texture name="New Texture (12)" address="0x00003778" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (13)" address="0x00008690" format="i8" width="16" height="32"/>
+		<texture name="New Texture (14)" address="0x00008990" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (15)" address="0x00008B90" format="ci8" width="8" height="8" palette="0x00008990"/>
+		<texture name="New Texture (16)" address="0x00008BD0" format="ci8" width="16" height="16" palette="0x00008990"/>
+		<texture name="New Texture (17)" address="0x00008CD0" format="ci8" width="16" height="16" palette="0x00008990"/>
+		<texture name="New Texture (18)" address="0x00008DD0" format="ci8" width="8" height="8" palette="0x00008990"/>
+		<texture name="New Texture (19)" address="0x00008E10" format="ci8" width="32" height="32" palette="0x00008990"/>
+		<texture name="New Texture (20)" address="0x00009210" format="ci8" width="8" height="8" palette="0x00008990"/>
+		<texture name="New Texture (23)" address="0x00009250" format="ci8" width="32" height="32" palette="0x00008990"/>
+		<texture name="New Texture (21)" address="0x00009650" format="ci8" width="32" height="32" palette="0x00008990"/>
+		<texture name="New Texture (22)" address="0x00009A50" format="ci8" width="32" height="32" palette="0x00008990"/>
+		<texture name="New Texture (24)" address="0x00009E50" format="ci8" width="64" height="32" palette="0x00008990"/>
+		<texture name="New Texture (25)" address="0x0000A650" format="ci8" width="8" height="8" palette="0x00008990"/>
+		<texture name="New Texture (26)" address="0x0000A690" format="ci8" width="16" height="16" palette="0x00008990"/>
+		<texture name="New Texture (27)" address="0x0000A790" format="ci8" width="8" height="16" palette="0x00008990"/>
+		<texture name="New Texture (28)" address="0x0000A810" format="ci8" width="16" height="16" palette="0x00008990"/>
+		<texture name="New Texture (29)" address="0x0000A910" format="ia8" width="64" height="64"/>
+		<texture name="New Texture (30)" address="0x0000B9E0" format="rgb5a1" width="64" height="16"/>
+		<texture name="New Texture (31)" address="0x0000C780" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (32)" address="0x0000ED28" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (33)" address="0x0000F528" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (34)" address="0x0000FD28" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (35)" address="0x00010528" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (36)" address="0x00010D28" format="rgb5a1" width="8" height="8"/>
+		<texture name="New Texture (37)" address="0x00010DA8" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (38)" address="0x00011440" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (39)" address="0x00011C40" format="rgb5a1" width="32" height="16"/>
+		<texture name="New Texture (40)" address="0x000122E0" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (41)" address="0x00012AE0" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (42)" address="0x00013660" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (43)" address="0x000140D0" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (44)" address="0x000142D0" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (45)" address="0x00014AD0" format="i8" width="32" height="32"/>
+	</directory>
+	<directory name="object_spot05_objects" address="0x018D8000" size="0x000012F0">
+		<texture name="New Texture" address="0x00000000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (2)" address="0x00000950" format="rgb5a1" width="16" height="64"/>
+	</directory>
 	<directory name="object_demo_kekkai" address="0x01938000" size="0x0000ED10">
 		<texture name="New Texture" address="0x00000000" format="ia16" width="16" height="64"/>
 		<texture name="New Texture (2)" address="0x00000800" format="ia16" width="16" height="64"/>
@@ -1936,6 +2071,70 @@
 		<texture name="New Texture" address="0x00000000" format="rgb5a1" width="32" height="64"/>
 		<texture name="New Texture (2)" address="0x00001490" format="rgb5a1" width="32" height="64"/>
 		<texture name="New Texture (3)" address="0x00002700" format="rgb5a1" width="32" height="64"/>
+	</directory>
+	<directory name="object_cow" address="0x019C9000" size="0x00004EB0">
+		<texture name="Palette" address="0x00002880" format="rgb5a1" width="16" height="16"/>
+		<texture name="Inner Ear-Udder" address="0x00002A80" format="ci8" width="16" height="16" palette="0x00002880"/>
+		<texture name="New Texture (3)" address="0x00002B80" format="ci8" width="8" height="8" palette="0x00002880"/>
+		<texture name="Nostril" address="0x00002BC0" format="ci8" width="16" height="16" palette="0x00002880"/>
+		<texture name="Spots" address="0x00002CC0" format="i8" width="64" height="64"/>
+		<texture name="New Texture (6)" address="0x00003CC0" format="ci8" width="8" height="16" palette="0x00002880"/>
+		<texture name="Eye" address="0x00003D40" format="rgb5a1" width="16" height="16"/>
+		<texture name="Hoof" address="0x00003F40" format="ci8" width="8" height="16" palette="0x00002880"/>
+	</directory>
+	<directory name="object_cob" address="0x019CE000" size="0x00002210">
+		<texture name="Palette" address="0x00000000" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture" address="0x00000200" format="ci8" width="8" height="16" palette="0x00000000"/>
+		<texture name="New Texture (2)" address="0x00000280" format="ci8" width="8" height="8" palette="0x00000000"/>
+		<texture name="New Texture (3)" address="0x000002C0" format="ci8" width="8" height="8" palette="0x00000000"/>
+		<texture name="New Texture (4)" address="0x00000300" format="ci8" width="8" height="8" palette="0x00000000"/>
+	</directory>
+	<directory name="object_timeblock" address="0x019D5000" size="0x00000B60">
+		<texture name="Time Block" address="0x00000000" format="i8" width="32" height="64"/>
+	</directory>
+	<directory name="object_zl4" address="0x019D6000" size="0x0001CE20">
+		<texture name="Palette 1" address="0x00000670" format="rgb5a1" width="16" height="16"/>
+		<texture name="Palette 2" address="0x00000870" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (2)" address="0x00000C70" format="ci8" width="8" height="8" palette="0x00000670"/>
+		<texture name="New Texture (3)" address="0x00000CB0" format="ci8" width="16" height="16" palette="0x00000670"/>
+		<texture name="Unreferenced" address="0x00000DB0" format="ci8" width="32" height="64" palette="0x00000670"/>
+		<texture name="New Texture (4)" address="0x000015B0" format="rgb5a1" width="8" height="8"/>
+		<texture name="New Texture (5)" address="0x00001630" format="rgb5a1" width="8" height="8"/>
+		<texture name="New Texture (6)" address="0x000016B0" format="ci8" width="32" height="8" palette="0x00000670"/>
+		<texture name="New Texture (7)" address="0x000017B0" format="ci8" width="8" height="8" palette="0x00000670"/>
+		<texture name="New Texture (8)" address="0x000017F0" format="ci8" width="32" height="32" palette="0x00000670"/>
+		<texture name="New Texture (9)" address="0x00001BF0" format="rgb5a1" width="8" height="16"/>
+		<texture name="New Texture (10)" address="0x00001CF0" format="ci8" width="16" height="16" palette="0x00000670"/>
+		<texture name="New Texture (11)" address="0x00001DF0" format="ci8" width="8" height="8" palette="0x00000670"/>
+		<texture name="New Texture (12)" address="0x00001E30" format="rgb5a1" width="16" height="32"/>
+		<texture name="New Texture (13)" address="0x00002230" format="ci8" width="8" height="8" palette="0x00000670"/>
+		<texture name="New Texture (14)" address="0x00002270" format="ci8" width="8" height="16" palette="0x00000670"/>
+		<texture name="New Texture (15)" address="0x000022F0" format="ci8" width="16" height="32" palette="0x00000670"/>
+		<texture name="New Texture (16)" address="0x000024F0" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (17)" address="0x000026F0" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (18)" address="0x000028F0" format="rgb5a1" width="8" height="8"/>
+		<texture name="New Texture (19)" address="0x00002970" format="rgb5a1" width="8" height="8"/>
+		<texture name="Unreferenced (2)" address="0x000029F0" format="rgb5a1" width="16" height="8"/>
+		<texture name="New Texture (20)" address="0x00002AF0" format="ci8" width="32" height="32" palette="0x00000870"/>
+		<texture name="New Texture (21)" address="0x00002EF0" format="ci8" width="32" height="32" palette="0x00000870"/>
+		<texture name="New Texture (22)" address="0x000032F0" format="ci8" width="32" height="32" palette="0x00000870"/>
+		<texture name="New Texture (23)" address="0x000036F0" format="ci8" width="32" height="32" palette="0x00000870"/>
+		<texture name="New Texture (24)" address="0x00003AF0" format="ci8" width="32" height="32" palette="0x00000870"/>
+		<texture name="New Texture (25)" address="0x00003EF0" format="ci8" width="32" height="32" palette="0x00000870"/>
+		<texture name="New Texture (26)" address="0x000042F0" format="ci8" width="32" height="32" palette="0x00000870"/>
+		<texture name="New Texture (27)" address="0x000046F0" format="ci8" width="32" height="32" palette="0x00000A70"/>
+		<texture name="New Texture (28)" address="0x00004AF0" format="ci8" width="32" height="32" palette="0x00000A70"/>
+		<texture name="New Texture (29)" address="0x00004EF0" format="ci8" width="32" height="32" palette="0x00000A70"/>
+		<texture name="New Texture (30)" address="0x000052F0" format="ci8" width="32" height="32" palette="0x00000A70"/>
+		<texture name="New Texture (31)" address="0x000056F0" format="rgb5a1" width="16" height="16"/>
+		<texture name="Palette 3" address="0x00000A70" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (33)" address="0x000058F0" format="ci8" width="16" height="16" palette="0x00000670"/>
+		<texture name="New Texture (34)" address="0x000059F0" format="rgb5a1" width="8" height="8"/>
+		<texture name="New Texture (35)" address="0x00005A70" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (36)" address="0x00005C70" format="ci8" width="8" height="8" palette="0x00000670"/>
+		<texture name="New Texture (37)" address="0x00005CB0" format="ci8" width="16" height="16" palette="0x00000670"/>
+		<texture name="New Texture (38)" address="0x00005DB0" format="rgb5a1" width="32" height="32"/>
+		<texture name="Ocarina" address="0x0000D8B8" format="rgb5a1" width="32" height="16"/>
 	</directory>
 	<directory name="g_pn_*" address="0x019F3000" size="0x000AA880">
 		<directory name="g_pn_01" address="0x00000000" size="0x00002880">
@@ -2281,8 +2480,8 @@
 		<texture name="Kokiri's Emerald" address="0x0001C880" format="rgba32" width="16" height="16"/>
 		<texture name="Goron's Ruby" address="0x0001CC80" format="rgba32" width="16" height="16"/>
 		<texture name="Zora's Sapphire" address="0x0001D080" format="rgba32" width="16" height="16"/>
-		<texture name="no file to copy" address="0x0001D480" format="ia8" width="128" height="16"/>
-		<texture name="no file to erase." address="0x0001DC80" format="ia8" width="128" height="16"/>
+		<texture name="No file to copy" address="0x0001D480" format="ia8" width="128" height="16"/>
+		<texture name="No file to erase." address="0x0001DC80" format="ia8" width="128" height="16"/>
 		<texture name="There is no empty file." address="0x0001E480" format="ia8" width="128" height="16"/>
 		<texture name="This is an empty file." address="0x0001EC80" format="ia8" width="128" height="16"/>
 		<texture name="This file is in use." address="0x0001F480" format="ia8" width="128" height="16"/>
@@ -2459,7 +2658,7 @@
 	<directory name="vr_cloud3_static" address="0x01B4B000" size="0x0000C000">
 		<texture name="Skybox Cloud 3" address="0x00000000" format="ci8" width="128" height="384" palette="0x0000BF00"/>
 	</directory>
-	<directory name="vr_holy0_static" address="0x01B58000" size="0x00019000">
+	<directory name="vr_holy0_static" address="0x01B58000" size="0x00010000">
 		<texture name="Skybox Holy 0 1" address="0x00000000" format="ci8" width="128" height="384" palette="0x00010000"/>
 		<texture name="Skybox Holy 0 2" address="0x0000C000" format="ci8" width="128" height="128" palette="0x00010000"/>
 	</directory>
@@ -2694,7 +2893,7 @@
 		<texture name="000117A0_32x32_rgba16" address="0x000117A0" format="rgb5a1" width="32" height="32"/>
 		<texture name="00011FA0_32x32_rgba16" address="0x00011FA0" format="rgb5a1" width="32" height="32"/>
 	</directory>
-	<directory name="tokinoma_room_0" address="0x02B37000" size="0x014C9000">
+	<directory name="tokinoma_room_0" address="0x02B37000" size="0x000171E0">
 		<texture name="0001A978_64x32_rgba16" address="0x000081D8" format="rgb5a1" width="64" height="32"/>
 		<texture name="0001B978_64x32_rgba16" address="0x000091D8" format="rgb5a1" width="64" height="32"/>
 		<texture name="0001C978_64x32_rgba16" address="0x0000A1D8" format="rgb5a1" width="64" height="32"/>
@@ -2834,11 +3033,5 @@
 	</directory>
 	<directory name="bump_texture_static" address="0x035C1000" size="0x00000400">
 		<texture name="Unknown" address="0x00000000" format="i8" width="32" height="32"/>
-	</directory>
-	<directory name="object_box" address="0x01041000" size="0x00006000">
-		<texture name="Normal-Dungeon Chest (front)" address="0x00001798" format="rgb5a1" width="32" height="64"/>
-		<texture name="Normal-Dungeon Chest (side)" address="0x00002798" format="rgb5a1" width="32" height="32"/>
-		<texture name="Large Chest (side)" address="0x00002F98" format="rgb5a1" width="32" height="32"/>
-		<texture name="Large Chest (front)" address="0x00003798" format="rgb5a1" width="32" height="64"/>
 	</directory>
 </root>

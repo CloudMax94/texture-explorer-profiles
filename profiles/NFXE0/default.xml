@@ -74,7 +74,17 @@
 	<directory name="File #0012" address="0x008DD590" size="0x00007350"/>
 	<directory name="File #0013" address="0x008E48E0" size="0x0002F160"/>
 	<directory name="File #0014" address="0x00913A40" size="0x0000A300">
-		<texture name="New Texture (4)" address="0x00004538" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture" address="0x00000E98" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (2)" address="0x00001098" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (3)" address="0x00001298" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (5)" address="0x00001498" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (6)" address="0x00001698" format="rgb5a1" width="16" height="16"/>
+		<texture name="THE LEGEND OF ZELDA#0057CDE9#0#2_all" address="0x00003D38" format="rgb5a1" width="32" height="32"/>
+		<texture name="THE LEGEND OF ZELDA#098C23A3#0#2_all" address="0x00002538" format="rgb5a1" width="32" height="32"/>
+		<texture name="THE LEGEND OF ZELDA#4E345E35#0#2_all" address="0x000024B8" format="rgb5a1" width="8" height="8"/>
+		<texture name="THE LEGEND OF ZELDA#5E3A3223#0#2_all" address="0x00002D38" format="rgb5a1" width="64" height="32"/>
+		<texture name="THE LEGEND OF ZELDA#6D91EBC5#0#2_all" address="0x00004538" format="rgb5a1" width="32" height="32"/>
+		<texture name="THE LEGEND OF ZELDA#9870499A#0#2_all" address="0x00004D38" format="rgb5a1" width="32" height="32"/>
 	</directory>
 	<directory name="File #0015" address="0x0091DD40" size="0x0000C510"/>
 	<directory name="File #0016" address="0x0092A250" size="0x00011E90">
