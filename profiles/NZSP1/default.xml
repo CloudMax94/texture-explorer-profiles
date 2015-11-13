@@ -744,7 +744,7 @@
 	<directory name="ovl_Effect_Ss_Dead_Db" address="0x00F9F490" size="0x000004C0"/>
 	<directory name="ovl_Effect_Ss_Dead_Dd" address="0x00F9F950" size="0x00000640"/>
 	<directory name="ovl_Effect_Ss_Dead_Ds" address="0x00F9FF90" size="0x00000540"/>
-	<directory name="Oceff_Storm" address="0x00FA04D0" size="0x00001F40"/>
+	<directory name="Oceff_Storm" address="0x00FA04D0" size="0x00001F40">
 		<texture name="New Texture" address="0x00000930" format="ia16" width="32" height="64"/>
 	</directory>
 	<directory name="Obj_Demo" address="0x00FA2410" size="0x00000460"/>
@@ -8314,7 +8314,7 @@
 		<texture name="Dumped Texture #15" address="0x008E80" format="rgb5a1" width="16" height="16"/>
 		<texture name="Dumped Texture #16" address="0x008EA0" format="ia16" width="32" height="256"/>
 	</directory>
-	<directory name="Z2_SINKAI_room_00" address="0x02656000" size="0x00007C50"/
+	<directory name="Z2_SINKAI_room_00" address="0x02656000" size="0x00007C50"/>
 	<directory name="Z2_YOUSEI_IZUMI" address="0x0265E000" size="0x000233C0">
 		<texture name="Dumped Texture #0" address="0x01C3C0" format="i8" width="32" height="64"/>
 		<texture name="Dumped Texture #1" address="0x01C3C0" format="i8" width="32" height="64"/>
@@ -8334,7 +8334,7 @@
 	<directory name="Z2_YOUSEI_IZUMI_room_02" address="0x0268E000" size="0x00005080"/>
 	<directory name="Z2_YOUSEI_IZUMI_room_03" address="0x02694000" size="0x00005060"/>
 	<directory name="Z2_YOUSEI_IZUMI_room_04" address="0x0269A000" size="0x00005090"/>
-	<directory name="Z2_KINSTA1" address="0x026A0000" size="0x0000AC60"/>
+	<directory name="Z2_KINSTA1" address="0x026A0000" size="0x0000AC60">
 		<texture name="Dumped Texture #0" address="0x005D20" format="rgb5a1" width="32" height="32"/>
 		<texture name="Dumped Texture #1" address="0x005D20" format="rgb5a1" width="32" height="32"/>
 		<texture name="Dumped Texture #2" address="0x006520" format="ia16" width="32" height="32"/>
