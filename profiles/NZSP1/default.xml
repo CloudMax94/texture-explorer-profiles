@@ -745,11 +745,18 @@
 	<directory name="ovl_Effect_Ss_Dead_Dd" address="0x00F9F950" size="0x00000640"/>
 	<directory name="ovl_Effect_Ss_Dead_Ds" address="0x00F9FF90" size="0x00000540"/>
 	<directory name="Oceff_Storm" address="0x00FA04D0" size="0x00001F40"/>
+		<texture name="New Texture" address="0x00000930" format="ia16" width="32" height="64"/>
+	</directory>
 	<directory name="Obj_Demo" address="0x00FA2410" size="0x00000460"/>
 	<directory name="En_Minislime" address="0x00FA2870" size="0x00002680"/>
 	<directory name="En_Nutsball" address="0x00FA4EF0" size="0x00000730"/>
-	<directory name="Oceff_Wipe2" address="0x00FA5620" size="0x00001870"/>
-	<directory name="Oceff_Wipe3" address="0x00FA6E90" size="0x00001840"/>
+	<directory name="Oceff_Wipe2" address="0x00FA5620" size="0x00001870">
+		<texture name="New Texture" address="0x000004D0" format="ia8" width="32" height="64"/>
+		<texture name="New Texture (2)" address="0x00000CD0" format="ia8" width="32" height="64"/>
+	</directory>
+	<directory name="Oceff_Wipe3" address="0x00FA6E90" size="0x00001840">
+		<texture name="New Texture" address="0x000004D0" format="ia16" width="32" height="64"/>
+	</directory>
 	<directory name="En_Dg" address="0x00FA86D0" size="0x00003E50"/>
 	<directory name="En_Si" address="0x00FAC520" size="0x00000500"/>
 	<directory name="Obj_Comb" address="0x00FACA20" size="0x00001A90"/>
@@ -770,7 +777,10 @@
 	<directory name="En_Ge3" address="0x00FC1B50" size="0x00001300"/>
 	<directory name="Obj_Hamishi" address="0x00FC2E50" size="0x00000E40"/>
 	<directory name="En_Zl4" address="0x00FC3C90" size="0x000005D0"/>
-	<directory name="En_Mm2" address="0x00FC4260" size="0x00000C40"/>
+	<directory name="En_Mm2" address="0x00FC4260" size="0x00000C40">
+		<texture name="New Texture" address="0x00000300" format="i8" width="32" height="32"/>
+		<texture name="New Texture (2)" address="0x00000700" format="i8" width="32" height="16"/>
+	</directory>
 	<directory name="Door_Spiral" address="0x00FC4EA0" size="0x00000A00"/>
 	<directory name="Obj_Pzlblock" address="0x00FC58A0" size="0x000010A0"/>
 	<directory name="Obj_Toge" address="0x00FC6940" size="0x00000E20"/>
@@ -6288,12 +6298,74 @@
 		<texture name="Dumped Texture #1" address="0x00001100" format="i4" width="32" height="64"/>
 		<texture name="Dumped Texture #2" address="0x00001500" format="i4" width="16" height="32"/>
 	</directory>
-	<directory name="0205D000-02061D00" address="0x0205D000" size="0x00004D00"/>
-	<directory name="02062000-02063D00" address="0x02062000" size="0x00001D00"/>
-	<directory name="02064000-02068800" address="0x02064000" size="0x00004800"/>
-	<directory name="02069000-0206E200" address="0x02069000" size="0x00005200"/>
-	<directory name="0206F000-02075800" address="0x0206F000" size="0x00006800"/>
-	<directory name="02076000-0207B460" address="0x02076000" size="0x00005460"/>
+	<directory name="0205D000-02061D00" address="0x0205D000" size="0x00004D00">
+		<texture name="New Texture" address="0x00000100" format="rgb5a1" width="32" height="32"/>
+		<texture name="Preview" address="0x00000900" format="i8" width="32" height="544"/>
+		<texture name="New Texture (2)" address="0x00001400" format="i8" width="32" height="32"/>
+		<texture name="New Texture (4)" address="0x00001800" format="rgb5a1" width="16" height="8"/>
+		<texture name="New Texture (3)" address="0x00001900" format="i8" width="16" height="16"/>
+		<texture name="New Texture (6)" address="0x00003CA0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (5)" address="0x000040A0" format="i8" width="32" height="32"/>
+		<texture name="New Texture (7)" address="0x00004700" format="i8" width="16" height="16"/>
+		<texture name="New Texture (8)" address="0x00004800" format="rgb5a1" width="16" height="16"/>
+		<texture name="New Texture (9)" address="0x00004B00" format="rgb5a1" width="16" height="16"/>
+	</directory>
+	<directory name="02062000-02063D00" address="0x02062000" size="0x00001D00">
+		<texture name="New Texture" address="0x00000000" format="i4" width="32" height="36"/>
+		<texture name="New Texture (3)" address="0x00000400" format="i8" width="16" height="32"/>
+		<texture name="New Texture (4)" address="0x00001300" format="i4" width="32" height="32"/>
+		<texture name="New Texture (5)" address="0x00001500" format="i4" width="32" height="32"/>
+	</directory>
+	<directory name="02064000-02068800" address="0x02064000" size="0x00004800">
+		<texture name="New Texture" address="0x00000000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (2)" address="0x00000800" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (3)" address="0x00001000" format="i8" width="64" height="64"/>
+		<texture name="New Texture (4)" address="0x00002000" format="ia16" width="64" height="64"/>
+		<texture name="New Texture (5)" address="0x00004000" format="ia4" width="64" height="64"/>
+	</directory>
+	<directory name="02069000-0206E200" address="0x02069000" size="0x00005200">
+		<texture name="New Texture" address="0x00000000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (2)" address="0x00000800" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (3)" address="0x00001000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (4)" address="0x00001800" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (5)" address="0x00002000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (6)" address="0x00002800" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (7)" address="0x00003000" format="i8" width="32" height="32"/>
+		<texture name="New Texture (8)" address="0x00003400" format="i8" width="32" height="32"/>
+		<texture name="New Texture (9)" address="0x00003800" format="i8" width="32" height="32"/>
+		<texture name="New Texture (10)" address="0x00003C00" format="i8" width="32" height="32"/>
+		<texture name="New Texture (11)" address="0x00004000" format="i4" width="32" height="32"/>
+		<texture name="New Texture (12)" address="0x00004200" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (13)" address="0x00004A00" format="rgb5a1" width="32" height="32"/>
+	</directory>
+	<directory name="0206F000-02075800" address="0x0206F000" size="0x00006800">
+		<texture name="New Texture" address="0x00000000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (2)" address="0x00000800" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (3)" address="0x00001000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (4)" address="0x00001800" format="i8" width="32" height="32"/>
+		<texture name="New Texture (5)" address="0x00001C00" format="i8" width="32" height="32"/>
+		<texture name="New Texture (6)" address="0x00002000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (7)" address="0x00002800" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (8)" address="0x00003000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (9)" address="0x00003800" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (10)" address="0x00004000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (11)" address="0x00004800" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (12)" address="0x00005000" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (13)" address="0x00005800" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (14)" address="0x00006000" format="i4" width="64" height="32"/>
+		<texture name="New Texture (15)" address="0x00006400" format="i4" width="64" height="32"/>
+	</directory>
+	<directory name="02076000-0207B460" address="0x02076000" size="0x00005460">
+		<texture name="New Texture" address="0x00000000" format="rgb5a1" width="32" height="16"/>
+		<texture name="New Texture (2)" address="0x00001C60" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (3)" address="0x00002460" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (4)" address="0x00002C60" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (5)" address="0x00003460" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (6)" address="0x00003C60" format="i8" width="32" height="32"/>
+		<texture name="New Texture (7)" address="0x00004060" format="i8" width="32" height="32"/>
+		<texture name="New Texture (8)" address="0x00004460" format="rgb5a1" width="32" height="32"/>
+		<texture name="New Texture (9)" address="0x00004C60" format="rgb5a1" width="32" height="32"/>
+	</directory>
 	<directory name="0207C000-0207C010" address="0x0207C000" size="0x00000010"/>
 	<directory name="0207D000-02085000" address="0x0207D000" size="0x00008000">
 		<texture name="New Texture" address="0x00000000" format="rgb5a1" width="32" height="64"/>
@@ -6676,7 +6748,10 @@
 		<texture name="New Texture (4)" address="0x000007E0" format="i4" width="32" height="32"/>
 	</directory>
 	<directory name="020F1000-020F19E0" address="0x020F1000" size="0x000009E0">
-		<texture name="New Texture" address="0x00000000" format="i4" width="32" height="17"/>
+		<texture name="New Texture" address="0x00000000" format="i4" width="32" height="16"/>
+		<texture name="New Texture (2)" address="0x00000110" format="i8" width="40" height="30"/>
+		<texture name="New Texture (3)" address="0x000005E0" format="i8" width="16" height="32"/>
+		<texture name="New Texture (4)" address="0x000007E0" format="i8" width="16" height="32"/>
 	</directory>
 	<directory name="020F2000-020F2BF0" address="0x020F2000" size="0x00000BF0">
 		<texture name="New Texture" address="0x00000000" format="i4" width="32" height="16"/>
@@ -6686,7 +6761,10 @@
 		<texture name="New Texture (5)" address="0x000009E0" format="i8" width="16" height="32"/>
 	</directory>
 	<directory name="020F3000-020F39E0" address="0x020F3000" size="0x000009E0">
-		<texture name="New Texture" address="0x00000000" format="i4" width="32" height="17"/>
+		<texture name="New Texture" address="0x00000000" format="i4" width="32" height="16"/>
+		<texture name="New Texture (4)" address="0x00000110" format="i8" width="40" height="30"/>
+		<texture name="New Texture (2)" address="0x000005D0" format="i8" width="16" height="32"/>
+		<texture name="New Texture (3)" address="0x000007D0" format="i8" width="16" height="32"/>
 	</directory>
 	<directory name="020F4000-020F7CC0" address="0x020F4000" size="0x00003CC0">
 		<texture name="New Texture" address="0x00000000" format="ia8" width="48" height="27"/>
@@ -6755,10 +6833,18 @@
 		<texture name="New Texture (11)" address="0x00009200" format="i4" width="144" height="32"/>
 	</directory>
 	<directory name="02120000-0212C000" address="0x02120000" size="0x0000C000">
-		<texture name="New Texture" address="0x00000000" format="ci8" width="128" height="384" palette="0x00018000"/>
+		<texture name="New Texture" address="0x00000000" format="ci8" width="128" height="64" palette="0x00018000"/>
+		<texture name="New Texture (2)" address="0x00002000" format="ci8" width="128" height="64" palette="0x00018000"/>
+		<texture name="New Texture (3)" address="0x00004000" format="ci8" width="128" height="64" palette="0x00018000"/>
+		<texture name="New Texture (4)" address="0x00006000" format="ci8" width="128" height="64" palette="0x00018000"/>
+		<texture name="New Texture (5)" address="0x00008000" format="ci8" width="128" height="128" palette="0x00018000"/>
 	</directory>
 	<directory name="0212C000-02138000" address="0x0212C000" size="0x0000C000">
-		<texture name="New Texture" address="0x00000000" format="ci8" width="128" height="384" palette="0x0000C000"/>
+		<texture name="New Texture" address="0x00000000" format="ci8" width="128" height="64" palette="0x0000C000"/>
+		<texture name="New Texture (2)" address="0x00002000" format="ci8" width="128" height="64" palette="0x0000C000"/>
+		<texture name="New Texture (3)" address="0x00004000" format="ci8" width="128" height="64" palette="0x0000C000"/>
+		<texture name="New Texture (4)" address="0x00006000" format="ci8" width="128" height="64" palette="0x0000C000"/>
+		<texture name="New Texture (5)" address="0x00008000" format="ci8" width="128" height="128" palette="0x0000C000"/>
 	</directory>
 	<directory name="_pal_static" address="0x02138000" size="0x00000200">
 		<texture name="New Texture" address="0x00000000" format="rgb5a1" width="16" height="16"/>
