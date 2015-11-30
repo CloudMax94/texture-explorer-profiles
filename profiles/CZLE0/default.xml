@@ -2261,7 +2261,7 @@
 		<texture name="Dumped Texture #13" address="0x00DC10" format="i8" width="16" height="16" bank="06"/>
 		<texture name="Dumped Texture #14" address="0x00DD10" format="i8" width="16" height="16" bank="06"/>
 		<texture name="Dumped Texture #15" address="0x00DE10" format="i8" width="16" height="16" bank="06"/>
-		/directory>
+	</directory>
 	<directory name="object_zf" address="0x01092000" size="0x000163A0">
 		<texture name="Dumped Texture #1" address="0x000000" format="rgb5a1" width="16" height="16" bank="06"/>
 		<texture name="Dumped Texture #2" address="0x000200" format="ci8" width="8" height="8" bank="06"/>
@@ -2359,12 +2359,12 @@
 	<directory name="object_bl" address="0x010EC000" size="0x00005850">
 		<texture name="Dumped Texture #0" address="0x000608" format="ia16" width="16" height="64" bank="06"/>
 		<texture name="Dumped Texture #1" address="0x005608" format="ia16" width="16" height="16" bank="06"/>
-		/directory>
+	</directory>
 	<directory name="object_tp" address="0x010F2000" size="0x00001CF0">
 		<texture name="Dumped Texture #0" address="0x0008E8" format="rgb5a1" width="8" height="16" bank="06"/>
 		<texture name="Dumped Texture #1" address="0x0009E8" format="rgb5a1" width="8" height="8" bank="06"/>
 		<texture name="Dumped Texture #2" address="0x001C68" format="rgb5a1" width="8" height="8" bank="06"/>
-		/directory>
+	</directory>
 	<directory name="object_oA1" address="0x010F4000" size="0x00004710">
 		<texture name="Dumped Texture #0" address="0x003748" format="rgb5a1" width="16" height="16" bank="06"/>
 		<texture name="Dumped Texture #1" address="0x003948" format="ci8" width="32" height="32" bank="06"/>
@@ -2546,7 +2546,7 @@
 		<texture name="Dumped Texture #8" address="0x006648" format="i8" width="16" height="8" bank="06"/>
 		<texture name="Dumped Texture #9" address="0x006688" format="i8" width="16" height="16" bank="06"/>
 		<texture name="Dumped Texture #10" address="0x006708" format="rgb5a1" width="16" height="8" bank="06"/>
-		/directory>
+	</directory>
 	<directory name="object_oE_anime" address="0x0117F000" size="0x00005060"/>
 	<directory name="object_oE2" address="0x01185000" size="0x00005A70">
 		<texture name="Dumped Texture #0" address="0x003C70" format="rgb5a1" width="16" height="16" bank="06"/>
@@ -2561,7 +2561,7 @@
 		<texture name="Dumped Texture #9" address="0x005970" format="i8" width="16" height="16" bank="06"/>
 		<texture name="Dumped Texture #10" address="0x0059F0" format="i8" width="16" height="8" bank="06"/>
 		<texture name="Dumped Texture #11" address="0x005A30" format="i8" width="16" height="8" bank="06"/>
-		/directory>
+	</directory>
 	<directory name="object_ydan_objects" address="0x0118B000" size="0x00009080">
 		<texture name="Dumped Texture #1" address="0x000000" format="rgb5a1" width="32" height="32" bank="06"/>
 		<texture name="Dumped Texture #2" address="0x000800" format="rgb5a1" width="32" height="32" bank="06"/>
