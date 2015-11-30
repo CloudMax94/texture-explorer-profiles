@@ -6802,7 +6802,7 @@
 		<texture name="Dumped Texture #22" address="0x010960" format="rgb5a1" width="32" height="32" bank="02"/>
 	</directory>
 	<directory name="spot09_room_0" address="0x0213D000" size="0x000085D0"/>
-	<directory name="spot10_scene" address="0x02146000" size="0x00010430"/>
+	<directory name="spot10_scene" address="0x02146000" size="0x00010430">
 		<texture name="Dumped Texture #0" address="0x00C230" format="rgb5a1" width="32" height="32" bank="02"/>
 		<texture name="Dumped Texture #1" address="0x00CA30" format="rgb5a1" width="32" height="32" bank="02"/>
 		<texture name="Dumped Texture #2" address="0x00D230" format="i8" width="64" height="64" bank="02"/>
