@@ -6467,7 +6467,7 @@
 		<texture name="Item Amount Digit 7" address="0x00003780" format="ia8" width="8" height="8"/>
 		<texture name="Item Amount Digit 8" address="0x000037C0" format="ia8" width="8" height="8"/>
 		<texture name="Item Amount Digit 9" address="0x00003800" format="ia8" width="8" height="8"/>
-		<texture name="1-2 (Beta Double Magic Meter?)" address="0x00003840" format="ia8" width="16" height="8"/>
+		<texture name="Item Amount Digit 1-2 (Pre-release deku stick)" address="0x00003840" format="ia8" width="16" height="8"/>
 		<texture name="Magic Meter Side" address="0x000038C0" format="ia8" width="8" height="16"/>
 		<texture name="Magic Meter Middle" address="0x00003940" format="ia8" width="24" height="16"/>
 		<texture name="Magic Meter Fill" address="0x00003AC0" format="ia8" width="8" height="8"/>
