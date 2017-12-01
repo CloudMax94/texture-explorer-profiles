@@ -10845,6 +10845,7 @@
 		<texture name="Dumped Texture #1" address="0x0059B0" format="rgb5a1" width="32" height="32" bank="02"/>
 		<texture name="Dumped Texture #0" address="0x0061B0" format="rgb5a1" width="32" height="32" bank="02"/>
 		<texture name="Dumped Texture #0" address="0x0069B0" format="rgb5a1" width="32" height="32" bank="02"/>
+	</directory>
 	<directory name="takaraya_room_0" address="0x034E9000" size="0x00009DC0">
 		<texture name="Dumped Texture #0" address="0x003BE0" format="rgb5a1" width="16" height="64" bank="03"/>
 		<texture name="Dumped Texture #1" address="0x0043E0" format="rgb5a1" width="32" height="32" bank="03"/>
@@ -10989,7 +10990,7 @@
 		<texture name="Dumped Texture #11" address="0x00C098" format="i8" width="64" height="64" bank="03"/>
 		<texture name="Dumped Texture #12" address="0x00D098" format="i8" width="64" height="64" bank="03"/>
 	</directory>
-	<directory name="ganontikasonogo_scene" address="0x0358C000" size="0x00004B00"/>
+	<directory name="ganontikasonogo_scene" address="0x0358C000" size="0x00004B00">
 		<texture name="Dumped Texture #0" address="0x002B00" format="rgb5a1" width="32" height="64" bank="02"/>
 		<texture name="Dumped Texture #1" address="0x003B00" format="rgb5a1" width="64" height="32" bank="02"/>
 	</directory>
